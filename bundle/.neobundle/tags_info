@@ -1,0 +1,8 @@
+neobundle.vim
+neocomplete.vim
+unite.vim
+vim-airline
+vim-colors-solarized
+vimfiler.vim
+vimproc.vim
+vimshell.vim

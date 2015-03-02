@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/beaubert/.spf13-vim-3'
+let g:netrw_dirhist_2='/home/beaubert/Bureau'
+let g:netrw_dirhist_3='/home/beaubert'
+let g:netrw_dirhist_4='/home/beaubert/texmf.old'
+let g:netrw_dirhist_5='/home/beaubert'
+let g:netrw_dirhist_6='/home/beaubert/texmf.old'
